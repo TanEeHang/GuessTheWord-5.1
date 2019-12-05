@@ -80,6 +80,7 @@ class GameFragment : Fragment() {
         updateScoreText()
         updateWordText()
     }
+    
 
 
     /** Methods for updating the UI **/
